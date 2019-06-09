@@ -6,5 +6,5 @@ Using Styfer, you can produce an artistic creation by inputing a content image a
 
 You can read the paper [here](http://arxiv.org/abs/1508.06576)
 
-### try
+### Some Examples
 
