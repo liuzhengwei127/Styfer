@@ -8,7 +8,7 @@ You can read the paper here [http://arxiv.org/abs/1508.06576](http://arxiv.org/a
 
 ### Some Examples
 
-​                     content                                                    style                                                   target
+content+style=target
 
 <div>
     <img src='/images/bridge.jpg' width='30%'>
@@ -17,6 +17,10 @@ You can read the paper here [http://arxiv.org/abs/1508.06576](http://arxiv.org/a
     =
     <img src='/target7.jpg' width='30%'>
 </div>
+
+<br>
+
+<br>
 
 
 
@@ -28,7 +32,9 @@ You can read the paper here [http://arxiv.org/abs/1508.06576](http://arxiv.org/a
     <img src='/target5.jpg' width='30%'>
 </div>
 
+<br>
 
+<br>
 
 <div>
     <img src='/images/bridge.jpg' width='30%'>
